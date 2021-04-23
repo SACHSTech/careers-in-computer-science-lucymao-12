@@ -52,7 +52,7 @@ Here is the average breakdown for a software engineer:
 This part will vary from individual to individual so do not be concerned because this is only one of a multitude of paths one can take to find a career within software engineering.
 
 <br>
-<h2><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2>
+<h2><b><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2></b>
 
 ---
 McGill is one of the leading reasearch institutions in Canada that houses some of the top reaserachers in the world. We will be focusing on the Bachelor's of science in computer science degree that can be obtained through this institution from the high school pre-requisites all the way to the completion of the diploma. With this diploma, alumni are afforded many different job opportunities within the software engineering industry.
@@ -114,15 +114,19 @@ As stated before this degree requires you to take 63 credits within the specifie
 
 # Experiential Learning
 
+
 <br>
 
 # Real Jobs
-These are some results that were pulled from the internet. This chart and subsequent bodies of text can give you a little bit of information on what you can expect while job hunting within the software engineering industry.
+At the end of the day, this degree will give you multiple options going forward. Getting a job within this industry is one of the many choices available to you within this field. These are some results that were pulled from the internet. This chart and subsequent bodies of text can give you a little bit of information on what you can expect while job hunting within the software engineering industry.
+
+<br>
+
 |  |Entry Level |Mid Level|Senior Level|
 | --- | --- | --- | --- |
-|Job Title|Entry Level <br>Software Engineer| Intermediate <br>Software Engineer|Senior Software<br> Engineer|
-|Salary|78K|60K-82K|144K-180K
-|City|Gatineau, Quebec|Calgary, Alberta|Remote
+|**Job Title**|[Entry Level <br>Software Engineer<br>(Motorola Solutions)](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Entry-Level-Software-Engineer_R13002?source=APPLICANT_SOURCE-6-250)| [Software Develop-<br>ment Engineer II<br>(Amazon)](https://www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q)|[Senior Software<br> Engineer<br> (Indeed)](https://ca.indeed.com/viewjob?jk=507a20f1db764ae1&q=Senior+Software+Engineer&tk=1f3rd35d7t5hg800&from=web&advn=9767451333976163&adid=364420058&ad=-6NYlbfkN0CiRNM7CVr8YueLFKlzwbFWI0o7IjV438l4sVrvKZ0flkywQJjHRBlelz4j_0KQ9pK0vWeo0bbw1Zzs7QCJEx4yg0gh32rPYx503inKHHukgb0DVv3-bQpoYaglb3u6AcwfTDq37hZGKBXEr24rjJgWeWQNfTCgpn2TP-7Ep8cUF8O5UBh3VxEkCESgdcjadhJIf5h3hAaoqgrLJGJsQucDJekePRXN2qonjLGpyfsdYJGja--6Ff1LS4buoPHrV8wRBsho2chDjgZg2B9GM16M8Zg7lRNyI3xQfTdwZTeoLQSTRr4QhLJbCmDRaZa5ISt8yoNPTbFeEg%3D%3D&sjdu=6ByzYMZLGYUgyrbSdN0cjMoHkc0JlvZ4aQm3v0rT2lNA-V9rrQAAYsnyea3Z_BFgHwBRui2tFhVrGnetKo8goAkWztH_VrDVytKs8nClCxc&acatk=1f3rd7amfs79p802&pub=4a1b367933fd867b19b072952f68dceb&vjs=3)|
+|**Salary**|78K|131K|180K-225K
+|**City**|Gatineau, Quebec|Toronto, Ontario|Remote
 
 <br>
 
@@ -131,13 +135,13 @@ These are some results that were pulled from the internet. This chart and subseq
 The descriptions given are based on the job listing on indeed.
 
 ---
-### Entry Level
+### Entry Level: Motorola Solutions
 >“We are seeking smart, self-motivated, enthusiastic software engineers to help us design and deliver our call taking solutions. Ideal candidates must excel at solving problems and seeking to improve processes in innovative ways. To be successful in this role you must value teamwork and communication as well as working closely with other engineers in small, dynamic, Agile teams. As a Software Engineer in this role you must be adept at learning new technologies quickly. This role will be responsible for designing, developing, and maintaining high-quality code for a multi-tenant public safety application using Java, C++, C#, Python and Erlang in agile scrum development teams.”
 
-### Mid Level
->“We are seeking an intermediate software developer with a robust software development background in multiple different environments and programming languages. We are looking for someone who is driven, curious and possesses a problem-solving mindset to seek out pertinent information from others. The successful incumbent will embrace continuous learning and keep up-to-date with the fast-paced changes made to PHP and Laravel frameworks and the 75+ open source third party software used by our applications.”
+### Mid Level: Amazon
+>"The Amazon Advertising engineering team has an opportunity to be part of something big! Working on advertising for Amazon.<span>com, Kindle Special Offers, and Amazon Mobile Ads, the Ad Product Tools team provides critical tools that streamline ad delivery to millions of Amazon customers. CCS Engineering team is looking for a talented Software Development Engineer to help us build solutions to our platforms across web for custom applications."
 
-### Senior Level
+### Senior Level: Indeed
 >“You will be part of a team that strives to offer a robust and available solution for managing applicant data in order to facilitate the hiring needs of our employers. Our team has been leading initiatives that focus on reliability and fidelity of data, particularly by shifting our infrastructure toward AWS and other modern technologies that provide guarantees necessary for our business. Our team has a strong culture of improving observability in our services, ensuring that we are positioned to handle traffic growth and patterns that our clients need to deliver solutions to our customers.”
 
 <br>
@@ -155,9 +159,23 @@ This is based on the job listing, and will cover the requirements and skills tha
 > * Experience working in CI/ID environments 
 > * Working with large distributed agile teams
 
-### Mid Level: 
+### Mid Level: Amazon
+>*  2+ years of non-internship professional software development experience
+>*  1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+>* Experience building full stack applications
+>* Master's Degree in Computer Science, Computer/Electrical Engineering, Mathematics, or a related field
+>* Strong experience in Java Services (UI and backend), Database, and customer facing APIs
+>* Experience with AWS and other cloud technologies
+>* Experience in building high-performance, highly-available and scalable distributed systems
 
-### Senior Level
+### Senior Level: Indeed
+>* Master's degree in computer science or a related field is a plus
+>* 5+ years of software development experience with programming languages such as Java, C#/C++, Kotlin or Go
+>* Experience architecting systems that deal with global scale across the web and adopt appropriate api or event-driven access patterns
+>* Experience with utilizing storage systems (SQL/NoSQL), such as MySQL, Mongo, AWS Aurora, DynamoDB
+>* Experience with microservice architectures and solid API design, including leveraging protocols such as gRPC, REST, GraphQL, Apigee or other API Gateways
+>* Experience with building systems on leveraging search technologies such as Elasticsearch
+>* Understanding of measuring reliability through SLAs/SLOs and driving a culture centered on operational metrics
 
 
 
