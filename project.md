@@ -49,7 +49,7 @@ Here is the average breakdown for a software engineer:
 <br>
 
 # Standard Education
-This part will vary from individual to individual so do not be concerned because this is only one of a multitude of paths one can take to find a career within software engineering.
+Many educational institutions in Canada have accredited programs and courses that can give you the foundations for any future software engineering projects or jobs that you will want to take on. This part will vary from individual to individual so do not be concerned because this is only one of a multitude of paths one can take to find a career within software engineering.
 
 <br>
 <h2><b><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2></b>
@@ -113,7 +113,47 @@ As stated before this degree requires you to take 63 credits within the specifie
 <br>
 
 # Experiential Learning
+A software engineer needs more than just a good education to succeed within this field. This industry requires a dedication to the craft much like any other professional job, which means that individuals must take it upon themselves to enrich their own experience in ways outside of academia. Here I will be listing some of the many ways that you can develop yourself more within software engineering that a diploma might not be able to provide.
 
+<br>
+
+## Clubs and Councils
+Clubs and councils are a great way to both network with individuals both within you field and with those outside of your field. They offer opportunities to work with teams towards common goals and give you valuable skills and experiences that you would not be able to obtain otherwise. These clubs and councils don't just need to pertain to your major, sometimes joining one that is completely unrelated to what you are studying can lead you to learn things you might not even have thought about.
+
+Here are a few examples of clubs that you can join (or better yet, create): 
+* Robotics Club
+
+* Cardboard Boat Racing
+* Solar Car Racing
+* Women in Engineering
+* Engineers without Borders
+
+
+<br>
+
+## Conferences and Competitions
+Competitions are another way that aspiring engineers can both test out the skills that they have picked up in school while also learning new things during the event. Many competitions will not even require the individual to have any programming experience so it can be a fun way to delve into the community and learn the intricacies to this discipline.
+
+Here are examples of some [competitions hosted by McMaster University](https://www.eng.mcmaster.ca/connect/clubs-groups-teams#Competitions-Conferences):
+* [McMaster Engineering Competition](https://www.facebook.com/MacEngComp/)
+
+* [McMaster Designathon](https://www.mcmasterdesignleague.com/cad-designathon)
+* [DeltaHacks Hackathon](https://www.deltahacks.com/)
+* [The Forge Student Startup Competition](https://theforge.mcmaster.ca/)
+
+
+Conferences are also a great way for people to network and build connections. They allow studetns and professionals to share knowledge and learn off of one another. By attending conferences people are opened up to different facets of the world that a classroom cannot possibly be capable of. Oftentimes, conferences invite experts from all over the globe to speak and present their own original views and reaserch.
+
+Here are some examples of [conferences held by McMaster University](https://www.eng.mcmaster.ca/connect/clubs-groups-teams#Competitions-Conferences):
+
+* First Year Experiential Conference
+
+* Canadian Engineering Leadership Conference
+* Canadian Chemical Engineering Conference
+* Conference on Sustainability in Engineering
+
+## Personal Projects
+Personal projects are a great way to show potential employers that you are capable of taking the theory that you have learned and applying it in ways that are practical. Personal projects require a certain amount of discipline and self-regulation that will be very important in any professional job that you might want to apply. It can also give potential employers a good reflection of your skillset and you creative capabilities.
 
 <br>
 
