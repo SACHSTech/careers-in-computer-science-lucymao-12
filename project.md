@@ -154,7 +154,7 @@ Here are some examples of [conferences held by McMaster University](https://www.
 
 ## Personal Projects
 Personal projects are a great way to show potential employers that you are capable of taking the theory that you have learned and applying it in ways that are practical. Personal projects require a certain amount of discipline and self-regulation that will be very important in any professional job that you might want to apply. It can also give potential employers a good reflection of your skillset and you creative capabilities.
-
+ change
 <br>
 
 # Real Jobs
