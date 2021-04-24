@@ -154,8 +154,17 @@ Here are some examples of [conferences held by McMaster University](https://www.
 
 ## Personal Projects
 Personal projects are a great way to show potential employers that you are capable of taking the theory that you have learned and applying it in ways that are practical. Personal projects require a certain amount of discipline and self-regulation that will be very important in any professional job that you might want to apply. It can also give potential employers a good reflection of your skillset and you creative capabilities.
- change
+
+Here are a examples of projects that you can undertake:
 <br>
+
+* Creating an App
+
+* Building a Website 
+* Run your own Coding Class
+* Making a Computer Game
+
+
 
 # Real Jobs
 At the end of the day, this degree will give you multiple options going forward. Getting a job within this industry is one of the many choices available to you within this field. These are some results that were pulled from the internet. This chart and subsequent bodies of text can give you a little bit of information on what you can expect while job hunting within the software engineering industry.
@@ -217,7 +226,7 @@ This is based on the job listing, and will cover the requirements and skills tha
 >* Experience with building systems on leveraging search technologies such as Elasticsearch
 >* Understanding of measuring reliability through SLAs/SLOs and driving a culture centered on operational metrics
 
-
+# Further Readings and Citations
 
  
 
