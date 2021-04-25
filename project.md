@@ -55,7 +55,7 @@ Many educational institutions in Canada have accredited programs and courses tha
 <h2><b><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2></b>
 
 ---
-McGill is one of the leading reasearch institutions in Canada that houses some of the top reaserachers in the world. We will be focusing on the Bachelor's of science in computer science degree that can be obtained through this institution from the high school pre-requisites all the way to the completion of the diploma. With this diploma, alumni are afforded many different job opportunities within the software engineering industry.
+McGill is one of the leading reasearch institutions in Canada that houses some of the top reaserachers in the world. We will be focusing on the Bachelor's of Science with a Software Engineering major that can be obtained through this institution from the high school pre-requisites all the way to the completion of the diploma. With this diploma, alumni are afforded many different job opportunities within the software engineering industry.
 
 <br>
 
@@ -93,22 +93,22 @@ The definite integral. Techniques of intergration. Introduction to sequences and
  ## Post First Year
 This degree is a specialization within the broad Bachelor's of Science Physical, Earth, Math, an Computer Science group. Within first year there are a certain group of courses that need to be taken as mentioned above but as you enter into your second year and beyond you can begin to specialize your courses to work towards a certain major, we will be focusing on how one might obtain a Computer Science degree through this program.
 
-A computer science major requires the completion of 63 credits with a fair number of required courses within the School of Computer Science.
+A software engineering major requires the completion of 63 credits with a fair number of required courses within the School of Computer Science.
 
 Here are a few examples:
 
 * [COMP 202 Foundations of Programming](https://www.mcgill.ca/study/2021-2022/courses/comp-202)  
 Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling.
 
-* [COMP 251 Algorithms and Data Structures](https://www.mcgill.ca/study/2021-2022/courses/comp-251)  
-Introduction to algorithm design and analysis. Graph algorithms, greedy algorithms, data structures, dynamic programming, maximum flows.
+* [COMP 529 Software Architecture](https://www.mcgill.ca/study/2021-2022/courses/comp-529)  
+Development, analysis, and maintenance of software architectures, with special focus on modular decomposition and reverse engineering.
 
 * [COMP 303 Software Design](https://www.mcgill.ca/study/2021-2022/courses/comp-303)  
 Principles, mechanisms, techniques, and tools for object-oriented software design and its implementation, including encapsulation, design patterns, and unit testing.
 
 ## How Long does it Take to Finish a Degree?
 
-As stated before this degree requires you to take 63 credits within the specified program and school (this does not inculde first year). Each course varies from 3 credits to 4 credits per course. The maximum amount of credits one can earn within a semester is 17 which means that theoretically one can finish a degree in computer science in three years, although normally this would be a four year degree with a lighter course load.
+As stated before this degree requires you to take 63 credits within the specified program and school (this does not inculde first year). Depending on your high school diploma and any advanced university credits you might have earned in high school (through IB, AP classes, CEGEP) you can finish within 3-4 years.
 
 <br>
 
