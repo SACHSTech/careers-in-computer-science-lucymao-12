@@ -75,18 +75,18 @@ Mark Requirements
 
 ## First Year
 
-Here are a few first year courses that students must take:
+Here are a few first year courses that students must take (all descriptions are copied straight from McGill):
 * [Math 140 Calculus 1](https://www.mcgill.ca/study/2020-2021/courses/math-140)  
 Review of functions, graphs. Limits, continuitity, derivative. Differentiation of elementary functions. Antidifferentiation.
 
-* [Math 141 Calculus 2](https://www.mcgill.ca/study/2020-2021/courses/math-141)  
-The definite integral. Techniques of intergration. Introduction to sequences and series.
+* [BIOL 112 Cell and Molecular Biology](https://www.mcgill.ca/study/2020-2021/courses/biol-112)  
+The cell: ultrastructure, division, chemical constituents and reactions. Bioenergetics: photosynthesis and respiration. Principles of genetics, the molecular basis of inheritance and biotechnology.
 
 * [Phys 101 Introductory Phsyics - Mechanics](https://www.mcgill.ca/study/2020-2021/courses/phys-101)  
  An introductory course in physics without calculus, covering mechanics (kinematics, dynamics, energy, and rotational motion), oscillations and waves, sound, light, and wave optics.
 
- * [PHYS 102 Introductory Physics - Electromagnetism](https://www.mcgill.ca/study/2020-2021/courses/phys-102)  
- Electric field and potential. D.C. circuits and measurements. Capacitance. Magnetic field and induction. Electromagnetic waves and geometrical optics.
+ * [CHEM 110 General Chemistry 1](https://www.mcgill.ca/study/2020-2021/courses/chem-110)  
+ A study of the fundamental principles of atomic structure, radiation and nuclear chemistry, valence theory, coordination chemistry, and the periodic table.
 
  <br>
 
@@ -227,6 +227,49 @@ This is based on the job listing, and will cover the requirements and skills tha
 >* Understanding of measuring reliability through SLAs/SLOs and driving a culture centered on operational metrics
 
 # Further Readings and Citations
+
+
+“Average Software Engineer Salary in Canada.” PayScale, www.payscale.com/research/CA/Job=Software_Engineer/Salary. 
+
+“BIOL 112.” McGill, 27 Oct. 2020, www.mcgill.ca/study/2020-2021/courses/biol-112. 
+
+CareerExplorer. “What Does a Software Engineer Do?” 
+CareerExplorer, CareerExplorer, 14 Nov. 2019, www.careerexplorer.com/careers/software-engineer/. 
+
+“CHEM 110.” McGill, 14 Aug. 2020, www.mcgill.ca/study/2020-2021/courses/chem-110. 
+
+“COMP 202.” McGill, 14 Apr. 2021, www.mcgill.ca/study/2021-2022/courses/comp-202. 
+
+“COMP 303.” McGill, 9 Apr. 2021, www.mcgill.ca/study/2021-2022/courses/comp-303. 
+
+“COMP 529.” McGill, 9 Apr. 2021, www.mcgill.ca/study/2021-2022/courses/comp-529. 
+
+“Do I Need a Licence?” Professional Engineers Ontario, www.peo.on.ca/licence-applications/do-i-need-licence. 
+
+“Entry Level Software Engineer.” Motorola Solutions, 19 Apr. 2021, motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Gatineau-Canada/Entry-Level-Software-Engineer_R13002?source=APPLICANT_SOURCE-6-250. 
+
+“Freshman Program (30 Credits).” McGill, www.mcgill.ca/study/2020-2021/faculties/science/undergraduate/programs/bachelor-science-bsc-freshman-program. 
+
+“Government of Canada / Gouvernement Du Canada.” Software Design Engineer in Canada | Job Requirements, Government of Canada / Gouvernement Du Canada, 23 Mar. 2021, www.jobbank.gc.ca/marketreport/requirements/5482/ca. 
+
+“Major Software Engineering (63 Credits).” McGill, www.mcgill.ca/study/2021-2022/faculties/science/undergraduate/programs/bachelor-science-bsc-major-software-engineering. 
+
+“MATH 140.” McGill, 8 Apr. 2021, www.mcgill.ca/study/2020-2021/courses/math-140. 
+Oakley, Simon, and Sam Nalwa. “Clubs, Groups & Teams.” Clubs, Groups & Teams | Faculty of Engineering, McMaster, www.eng.mcmaster.ca/connect/clubs-groups-teams. 
+
+“PHYS 101.” McGill, 7 Apr. 2020, www.mcgill.ca/study/2020-2021/courses/phys-101. 
+
+“Requirements for Ontario Applicants.” Undergraduate Admissions, 28 Jan. 2021, www.mcgill.ca/undergraduate-admissions/apply/requirements/ontario. 
+
+“Senior Software Engineer - SMB | Candidate Platform.” Indeed, Indeed, ca.indeed.com/viewjob?jk=507a20f1db764ae1&q=Senior%2BSoftware%2BEngineer&tk=1f3rd35d7t5hg800&from=web&advn=9767451333976163&adid=364420058&ad=-6NYlbfkN0CiRNM7CVr8YueLFKlzwbFWI0o7IjV438l4sVrvKZ0flkywQJjHRBlelz4j_0KQ9pK0vWeo0bbw1Zzs7QCJEx4yg0gh32rPYx503inKHHukgb0DVv3-bQpoYaglb3u6AcwfTDq37hZGKBXEr24rjJgWeWQNfTCgpn2TP-7Ep8cUF8O5UBh3VxEkCESgdcjadhJIf5h3hAaoqgrLJGJsQucDJekePRXN2qonjLGpyfsdYJGja--6Ff1LS4buoPHrV8wRBsho2chDjgZg2B9GM16M8Zg7lRNyI3xQfTdwZTeoLQSTRr4QhLJbCmDRaZa5ISt8yoNPTbFeEg%3D%3D&sjdu=6ByzYMZLGYUgyrbSdN0cjMoHkc0JlvZ4aQm3v0rT2lNA-V9rrQAAYsnyea3Z_BFgHwBRui2tFhVrGnetKo8goAkWztH_VrDVytKs8nClCxc&acatk=1f3rd7amfs79p802&pub=4a1b367933fd867b19b072952f68dceb&vjs=3. 
+
+“Software Development Engineer II.” Amazon.jobs, www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job%2BPosting&iisn=Indeed%2B%28Free%2BPosting%29&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q. 
+
+“Software+Engineer+Ii Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=software%2Bengineer%2Bii#:~:text=Find%20out%20what%20the%20average%20Software%20Engineer%20Ii%20salary%20is&text=The%20average%20software%20engineer%20ii%20salary%20in%20Canada%20is%20%24131%2C250,up%20to%20%24182%2C750%20per%20year. 
+
+Sundquist, Kate. “Extracurriculars For Aspiring Computer Science Majors.” CollegeVine, 5 Mar. 2020, blog.collegevine.com/extracurriculars-for-aspiring-computer-science-majors/. 
+
+
 
  
 
