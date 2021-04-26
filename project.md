@@ -181,7 +181,7 @@ At the end of the day, this degree will give you multiple options going forward.
 
 ## Job Description
 
-The descriptions given are based on the job listing on indeed.
+The descriptions given are based on the job listing on their respective websites.
 
 ---
 ### Entry Level: Motorola Solutions
