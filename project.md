@@ -10,7 +10,7 @@ Software engineers apply their computer science and programming knowledge in ver
 
 * Bachelor's Degree in Computer Systems Engineering
 * College Computer Science Programs
-* And much More... **might also be a link**
+* And much More... 
 
 Depending on the job there might be other certifications that an engineer must obtain to work. This inculdes passing a practical examination or applying for a
 [license.](https://www.peo.on.ca/)
@@ -52,7 +52,7 @@ Here is the average breakdown for a software engineer:
 Many educational institutions in Canada have accredited programs and courses that can give you the foundations for any future software engineering projects or jobs that you will want to take on. This part will vary from individual to individual so do not be concerned because this is only one of a multitude of paths one can take to find a career within software engineering.
 
 <br>
-<h2><b><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2></b>
+<h2><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png" alt="mcgill logo" width="50"/> McGill University</h2>
 
 ---
 McGill is one of the leading reasearch institutions in Canada that houses some of the top reaserachers in the world. We will be focusing on the Bachelor's of Science with a Software Engineering major that can be obtained through this institution from the high school pre-requisites all the way to the completion of the diploma. With this diploma, alumni are afforded many different job opportunities within the software engineering industry.
@@ -77,16 +77,16 @@ Mark Requirements
 
 Here are a few first year courses that students must take (all descriptions are copied straight from McGill):
 * [Math 140 Calculus 1](https://www.mcgill.ca/study/2020-2021/courses/math-140)  
-Review of functions, graphs. Limits, continuitity, derivative. Differentiation of elementary functions. Antidifferentiation.
+Review of functions, graphs. Limits, continuitity, derivative. Differentiation of elementary functions. Antidifferentiation. (MATH 140)
 
 * [BIOL 112 Cell and Molecular Biology](https://www.mcgill.ca/study/2020-2021/courses/biol-112)  
-The cell: ultrastructure, division, chemical constituents and reactions. Bioenergetics: photosynthesis and respiration. Principles of genetics, the molecular basis of inheritance and biotechnology.
+The cell: ultrastructure, division, chemical constituents and reactions. Bioenergetics: photosynthesis and respiration. Principles of genetics, the molecular basis of inheritance and biotechnology. (BIOL 112)
 
 * [Phys 101 Introductory Phsyics - Mechanics](https://www.mcgill.ca/study/2020-2021/courses/phys-101)  
- An introductory course in physics without calculus, covering mechanics (kinematics, dynamics, energy, and rotational motion), oscillations and waves, sound, light, and wave optics.
+ An introductory course in physics without calculus, covering mechanics (kinematics, dynamics, energy, and rotational motion), oscillations and waves, sound, light, and wave optics. (PHYS 101)
 
  * [CHEM 110 General Chemistry 1](https://www.mcgill.ca/study/2020-2021/courses/chem-110)  
- A study of the fundamental principles of atomic structure, radiation and nuclear chemistry, valence theory, coordination chemistry, and the periodic table.
+ A study of the fundamental principles of atomic structure, radiation and nuclear chemistry, valence theory, coordination chemistry, and the periodic table. (CHEM 110)
 
  <br>
 
@@ -98,13 +98,13 @@ A software engineering major requires the completion of 63 credits with a fair n
 Here are a few examples:
 
 * [COMP 202 Foundations of Programming](https://www.mcgill.ca/study/2021-2022/courses/comp-202)  
-Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling.
+Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. (COMP 202)
 
 * [COMP 529 Software Architecture](https://www.mcgill.ca/study/2021-2022/courses/comp-529)  
-Development, analysis, and maintenance of software architectures, with special focus on modular decomposition and reverse engineering.
+Development, analysis, and maintenance of software architectures, with special focus on modular decomposition and reverse engineering. (COMP 529)
 
 * [COMP 303 Software Design](https://www.mcgill.ca/study/2021-2022/courses/comp-303)  
-Principles, mechanisms, techniques, and tools for object-oriented software design and its implementation, including encapsulation, design patterns, and unit testing.
+Principles, mechanisms, techniques, and tools for object-oriented software design and its implementation, including encapsulation, design patterns, and unit testing. (COMP 303)
 
 ## How Long does it Take to Finish a Degree?
 
@@ -185,13 +185,19 @@ The descriptions given are based on the job listing on indeed.
 
 ---
 ### Entry Level: Motorola Solutions
->“We are seeking smart, self-motivated, enthusiastic software engineers to help us design and deliver our call taking solutions. Ideal candidates must excel at solving problems and seeking to improve processes in innovative ways. To be successful in this role you must value teamwork and communication as well as working closely with other engineers in small, dynamic, Agile teams. As a Software Engineer in this role you must be adept at learning new technologies quickly. This role will be responsible for designing, developing, and maintaining high-quality code for a multi-tenant public safety application using Java, C++, C#, Python and Erlang in agile scrum development teams.”
+>“We are seeking smart, self-motivated, enthusiastic software engineers to help us design and deliver our call taking solutions. Ideal candidates must excel at solving problems and seeking to improve processes in innovative ways. To be successful in this role you must value teamwork and communication as well as working closely with other engineers in small, dynamic, Agile teams. As a Software Engineer in this role you must be adept at learning new technologies quickly. This role will be responsible for designing, developing, and maintaining high-quality code for a multi-tenant public safety application using Java, C++, C#, Python and Erlang in agile scrum development teams.” 
+
+(Entry Level Software Engineer.)
 
 ### Mid Level: Amazon
->"The Amazon Advertising engineering team has an opportunity to be part of something big! Working on advertising for Amazon.<span>com, Kindle Special Offers, and Amazon Mobile Ads, the Ad Product Tools team provides critical tools that streamline ad delivery to millions of Amazon customers. CCS Engineering team is looking for a talented Software Development Engineer to help us build solutions to our platforms across web for custom applications."
+>"The Amazon Advertising engineering team has an opportunity to be part of something big! Working on advertising for Amazon.<span>com, Kindle Special Offers, and Amazon Mobile Ads, the Ad Product Tools team provides critical tools that streamline ad delivery to millions of Amazon customers. CCS Engineering team is looking for a talented Software Development Engineer to help us build solutions to our platforms across web for custom applications." 
+
+(Software Development Engineer II.)
 
 ### Senior Level: Indeed
->“You will be part of a team that strives to offer a robust and available solution for managing applicant data in order to facilitate the hiring needs of our employers. Our team has been leading initiatives that focus on reliability and fidelity of data, particularly by shifting our infrastructure toward AWS and other modern technologies that provide guarantees necessary for our business. Our team has a strong culture of improving observability in our services, ensuring that we are positioned to handle traffic growth and patterns that our clients need to deliver solutions to our customers.”
+>“You will be part of a team that strives to offer a robust and available solution for managing applicant data in order to facilitate the hiring needs of our employers. Our team has been leading initiatives that focus on reliability and fidelity of data, particularly by shifting our infrastructure toward AWS and other modern technologies that provide guarantees necessary for our business. Our team has a strong culture of improving observability in our services, ensuring that we are positioned to handle traffic growth and patterns that our clients need to deliver solutions to our customers.” 
+
+(Senior Software Engineer - SMB | Candidate Platform.)
 
 <br>
 
@@ -208,6 +214,8 @@ This is based on the job listing, and will cover the requirements and skills tha
 > * Experience working in CI/ID environments 
 > * Working with large distributed agile teams
 
+(Entry Level Software Engineer.)
+
 ### Mid Level: Amazon
 >*  2+ years of non-internship professional software development experience
 >*  1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
@@ -217,6 +225,7 @@ This is based on the job listing, and will cover the requirements and skills tha
 >* Experience with AWS and other cloud technologies
 >* Experience in building high-performance, highly-available and scalable distributed systems
 
+(Software Development Engineer II.)
 ### Senior Level: Indeed
 >* Master's degree in computer science or a related field is a plus
 >* 5+ years of software development experience with programming languages such as Java, C#/C++, Kotlin or Go
@@ -225,6 +234,10 @@ This is based on the job listing, and will cover the requirements and skills tha
 >* Experience with microservice architectures and solid API design, including leveraging protocols such as gRPC, REST, GraphQL, Apigee or other API Gateways
 >* Experience with building systems on leveraging search technologies such as Elasticsearch
 >* Understanding of measuring reliability through SLAs/SLOs and driving a culture centered on operational metrics
+
+(Senior Software Engineer - SMB | Candidate Platform.)
+
+<br>
 
 # Further Readings and Citations
 
@@ -257,13 +270,16 @@ CareerExplorer, CareerExplorer, 14 Nov. 2019, www.careerexplorer.com/careers/sof
 “MATH 140.” McGill, 8 Apr. 2021, www.mcgill.ca/study/2020-2021/courses/math-140. 
 Oakley, Simon, and Sam Nalwa. “Clubs, Groups & Teams.” Clubs, Groups & Teams | Faculty of Engineering, McMaster, www.eng.mcmaster.ca/connect/clubs-groups-teams. 
 
+“McGill University Coat of Arms.” Wikimedia, upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/1200px-McGill_University_CoA.svg.png. 
+
 “PHYS 101.” McGill, 7 Apr. 2020, www.mcgill.ca/study/2020-2021/courses/phys-101. 
 
 “Requirements for Ontario Applicants.” Undergraduate Admissions, 28 Jan. 2021, www.mcgill.ca/undergraduate-admissions/apply/requirements/ontario. 
 
 “Senior Software Engineer - SMB | Candidate Platform.” Indeed, Indeed, ca.indeed.com/viewjob?jk=507a20f1db764ae1&q=Senior%2BSoftware%2BEngineer&tk=1f3rd35d7t5hg800&from=web&advn=9767451333976163&adid=364420058&ad=-6NYlbfkN0CiRNM7CVr8YueLFKlzwbFWI0o7IjV438l4sVrvKZ0flkywQJjHRBlelz4j_0KQ9pK0vWeo0bbw1Zzs7QCJEx4yg0gh32rPYx503inKHHukgb0DVv3-bQpoYaglb3u6AcwfTDq37hZGKBXEr24rjJgWeWQNfTCgpn2TP-7Ep8cUF8O5UBh3VxEkCESgdcjadhJIf5h3hAaoqgrLJGJsQucDJekePRXN2qonjLGpyfsdYJGja--6Ff1LS4buoPHrV8wRBsho2chDjgZg2B9GM16M8Zg7lRNyI3xQfTdwZTeoLQSTRr4QhLJbCmDRaZa5ISt8yoNPTbFeEg%3D%3D&sjdu=6ByzYMZLGYUgyrbSdN0cjMoHkc0JlvZ4aQm3v0rT2lNA-V9rrQAAYsnyea3Z_BFgHwBRui2tFhVrGnetKo8goAkWztH_VrDVytKs8nClCxc&acatk=1f3rd7amfs79p802&pub=4a1b367933fd867b19b072952f68dceb&vjs=3. 
 
-“Software Development Engineer II.” Amazon.jobs, www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job%2BPosting&iisn=Indeed%2B%28Free%2BPosting%29&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q. 
+“Software Development Engineer II.” Amazon.jobs, 
+[www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job%2BPosting&iisn=Indeed%2B%28Free%2BPosting%29&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q.](https://www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q) 
 
 “Software+Engineer+Ii Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=software%2Bengineer%2Bii#:~:text=Find%20out%20what%20the%20average%20Software%20Engineer%20Ii%20salary%20is&text=The%20average%20software%20engineer%20ii%20salary%20in%20Canada%20is%20%24131%2C250,up%20to%20%24182%2C750%20per%20year. 
 
