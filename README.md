@@ -1,5 +1,13 @@
 # Software Engineer
-Software engineers apply their computer science and programming knowledge in very practical ways within society. They are responsible for programs, websites, search engines, and operating systems that run almost all pieces of technonology we use today. Join me as we dive a little deeper into what it takes to become a software engineer.
+![Software Engineer Example](http://parents.brisbanechristiancollege.com.au/wp-content/uploads/sites/2/2018/05/code-header-1.jpg)
+
+Software engineers apply their computer science and programming knowledge in very practical ways within society. They are responsible for programs, websites, search engines, and operating systems that run almost all pieces of technology we use today. They are working on every level of the development process for new software and are held to and uphold proper practices that pertain to this field. They are expected to create, debug, and test code for new software while oftentimes working with teams towards a common goal. This means that they must regularly check in with their members, bosses, and customers to make sure that the software they are designing is fitting what was expected of them. Join me as we dive a little deeper into what it takes to become a software engineer.
+
+## Software Engineer vs Computer Scientist
+
+This is a question that might be brought up when discussing different careers in technology. By explaining the difference between the two, hopefully it will shed some light onto what a software engineer *really* does. 
+
+The largest difference between the two is how knowledge is gained and used between the two. It is true that they both focus on computer programming and software development but software engineering is far more practical; creation/development of software in this career is far more abundant than that of a computer scientist which is leaning more towards theory. Software engineering really focuses in on the software part, OS, app, and network system development are staples in these careers and these individuals have a heavy hand in all of these processes. Computer scientists, while in the same field of study, work more in theory than in application. They focus on the math and science that exist behind these creations of the former.
 
 <br>
 
@@ -254,6 +262,8 @@ CareerExplorer, CareerExplorer, 14 Nov. 2019, www.careerexplorer.com/careers/sof
 
 “CHEM 110.” McGill, 14 Aug. 2020, www.mcgill.ca/study/2020-2021/courses/chem-110. 
 
+“Code Header.” Brisbane Christian College, parents.brisbanechristiancollege.com.au/wp-content/uploads/sites/2/2018/05/code-header-1.jpg. 
+
 “COMP 202.” McGill, 14 Apr. 2021, www.mcgill.ca/study/2021-2022/courses/comp-202. 
 
 “COMP 303.” McGill, 9 Apr. 2021, www.mcgill.ca/study/2021-2022/courses/comp-303. 
@@ -285,5 +295,7 @@ Oakley, Simon, and Sam Nalwa. “Clubs, Groups & Teams.” Clubs, Groups & Teams
 [www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job%2BPosting&iisn=Indeed%2B%28Free%2BPosting%29&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q.](https://www.amazon.jobs/en/jobs/1528972/software-development-engineer-ii?mode=job&iis=Job+Posting&iisn=Indeed+(Free+Posting)&utm_source=indeed.com&utm_campaign=all_amazon&utm_medium=job_aggregator&utm_content=organic&dclid=CKjD7LHolPACFZbD9gIdHfAF1Q) 
 
 “Software+Engineer+Ii Salary in Canada - Average Salary.” Talent.com, ca.talent.com/salary?job=software%2Bengineer%2Bii#:~:text=Find%20out%20what%20the%20average%20Software%20Engineer%20Ii%20salary%20is&text=The%20average%20software%20engineer%20ii%20salary%20in%20Canada%20is%20%24131%2C250,up%20to%20%24182%2C750%20per%20year. 
+
+“Software Engineering Vs Computer Science: Learn More!” Field Engineer, Field Engineer, 24 Oct. 2017, www.fieldengineer.com/blogs/software-engineering-vs-computer-science#:~:text=As%20discussed%20above%2C%20the%20main,science%20focuses%20on%20the%20hardware.&amp;text=Software%20engineers%20mainly%20deal%20with,focus%20on%20programming%20and%20algorithms. 
 
 Sundquist, Kate. “Extracurriculars For Aspiring Computer Science Majors.” CollegeVine, 5 Mar. 2020, blog.collegevine.com/extracurriculars-for-aspiring-computer-science-majors/. 
